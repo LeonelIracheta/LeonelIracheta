@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonel Iracheta</h1>
-<h3 align="center">A passionate Fullstack developer from Mexico</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 - 🌱 I’m currently learning **Python**
 
